@@ -1,0 +1,50 @@
+# -*-coding:UTF-8-*-
+import nltk
+import pymysql
+import warnings
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+import gensim, logging, os
+
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+corpus = nltk.corpus.brown.sents()
+try:
+    #获取数据库连接
+    conn = pymysql.connect(host='localhost',user='root',passwd='123456',db='test',charset='utf8')
+    #打印数据库连接对象
+    print('数据库连接对象为：{}'.format(conn))
+    # 获取游标
+    cur = conn.cursor()
+    with conn:
+        # 仍然是，第一步要获取连接的cursor对象，用于执行查询
+        cur = conn.cursor()
+        # 类似于其他语言的query函数，execute是python中的执行查询函数
+        cur.execute("select Tags from Posts")
+        # 使用fetchall函数，将结果集（多维元组）存入rows里面
+        rows = cur.fetchall()
+        # 依次遍历结果集，发现每个元素，就是表中的一条记录，用一个元组来显示
+        from nltk.tokenize import sent_tokenize
+        i=0
+        for row in rows:
+            fname = 'brown_skipgram.model'
+            if os.path.exists(fname):
+                # load the file if it has already been trained, to save repeating the slow training step below
+                model = gensim.models.Word2Vec.load(fname)
+            else:
+                # can take a few minutes, grab a cuppa
+                model = gensim.models.Word2Vec(corpus, size=100, min_count=5, workers=2, iter=50)
+                model.save(fname)
+
+        for row in rows:
+            "".join(list(row))
+            rr = str(tuple(row))
+            print(rr)
+            words = rr.split()
+            for w1 in words:
+                for w2 in words:
+                    print(w1, w2, model.similarity(w1, w2))
+            model.most_similar(positive=['woman'], topn=10)
+            print(model['computer'])
+    cur.close()
+    conn.close()
+except Exception as e:
+            print(e)
