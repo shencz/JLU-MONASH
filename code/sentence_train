@@ -1,0 +1,45 @@
+
+import logging
+import pymysql
+#import mysql.connector
+import warnings
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+import gensim
+import os
+from prepros import get_words
+
+fname= os.path.join(os.pardir, "data", "mymodel")
+
+start = 0
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+
+class MySentences(object):
+
+    def __iter__(self):
+        current_id = 0
+        try:
+            #cnx = mysql.connector.connect(host='localhost',
+            cnx =pymysql.connect(host='101.200.125.7',
+                                          user='root',
+                                          password='1234',
+                                          db='stackoverflow')
+            cursor = cnx.cursor()
+            #query = "SELECT Id, Body FROM Posts WHERE Score >= 0 AND Id < 40000000"
+            #query = "SELECT Id, Body FROM Posts where id<2"
+            query = "SELECT id,BODY FROM posts`"
+            cursor.execute(query)
+            for row in cursor.fetchall():
+                print(row)
+                print('----------------------------------------------------------------------------------------------------')
+                words_list = get_words(row)
+                print(words_list)#list
+                for words in words_list:
+                    print(words)
+                    yield words
+        finally:
+             print("current_id: {}".format(current_id))
+
+sentences = MySentences()
+#print(sentences)
+model = gensim.models.Word2Vec(sentences, min_count=20, size=200, workers=8)
+model.save(fname)
