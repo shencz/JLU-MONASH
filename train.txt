@@ -1,0 +1,367 @@
+in my opinion this is a more elegant solution than jsf and i think tapestry s ioc container makes it more powerful than wicket  __label__capabilities
+if you would like a unified front-end for elasticsearch and opentsdb you could consider grafana which has support for both elasticsearch and opentsdb but less functionality than kibana in regard to elasticsearch  __label__capabilities
+fragment primary support more dynamic large ui screens like tablet.because tablet screens is much larger than normal handset  __label__capabilities
+note that it currently does not support true parallelism you won t have two threads running ocaml code in parallel but it doesn t matter as ocaml is much faster than many other languages for example on a quadcore the language shootout shows that ocaml outperforms even haskell with multicore capabilities  __label__capabilities
+jogl is more java-like whereas lwjgl provides more gaming functionality on top of opengl access  __label__capabilities
+from the mozilla perspective the purpose of these changes except for adding more capabilities for use by web developers is to lead up to javascript 2.0 that is being developed as the next revision of ecma 262 revision 4 tc39 workgroup  __label__capabilities
+the restful services are rather thin and completely stateless whereas the admin console is stateful and has more interactive functionality and therefore more memory and processing required  __label__capabilities
+flask is more focused on simplicity instead of functionality while django has more functionality  __label__capabilities
+maven 2 has a steeper learning curve but provides a much richer set of functionality for building your projects and eclipse integration through m2e or iam  __label__capabilities
+in general lxml offers better capabilities than elementtree and there s no need to mix them  __label__capabilities
+the qtablewidget is slightly easier to implement than the qtableview which also needs a qtablemodel as backend but it has less capabilities  __label__capabilities
+apc gives you some more functionality than memcached  __label__capabilities
+it seems a little bit more straight forward than kerberos but provides good ntlm sso capabilities  __label__capabilities
+this is the first time i was working with obout controls.previously i was working with telerik controls and so i had a good chance of comparing these two set of controls.i would prefer obout for its light weight and functionality  __label__capabilities
+you need to use tolist to convert it from ienumerable because the ilist interface supports more functionality than the ienumerable interface  __label__capabilities
+wpf .net represents more functionality than straight swing or swt but the eclipse netbeans spring rcp projects provide a much more comprehensive foundation for complex and modular gui applications  __label__capabilities
+icollection adds counting and ilist then gives richer functionality including find add and remove elements by index or via lambda expressions  __label__capabilities
+one could argue that a lighter framework such as sinatra if you re going to use ruby or something like bottle python or the javascript stack of node.js + express would be a better fit if you truly are just going to create a restful api + some landing pages but rails does this perfectly fine as well and has a lot of other functionality that will be available for you to grow into if the time ever comes  __label__capabilities
+at the same time the compilation phase for a dfa is typically more complex than for an nfa and dfas don t have all the capabilities of nfas  __label__capabilities
+vb.net is a better language than vb6 use its com capabilities to save you from writing endless sketchy vb6 code  __label__capabilities
+mysql is more widely supported and a little easier to use but postgresql has some very cool features and functionality that s worth taking a gander at  __label__capabilities
+among other things the apple template code will include creation of a glkbaseeffect which provides some shader functionality that seems to be required in order to be able to draw with opengl-es 2.0  __label__capabilities
+powermockito is an extension of other mocking frameworks like mockito or easymock that comes with more powerful capabilities  __label__capabilities
+however i do not know if webstorm has a comparable option like that as it has less functionality than phpstorm or even intellij  __label__capabilities
+for similar functionality that speaks pandas but has more flexible features you could use the facetgrid object from seaborn  __label__capabilities
+rickshaw is a graph library focused on time series whereas d3.js is more of a framework so it gives you much more functionality  __label__capabilities
+you can hide show the status bar on android 4.1 api level 16 and higher by using hide show functionality  __label__capabilities
+in my reading it seemed iqueryable had more functionality for linq to sql but since i am returning a simple two column list then i only need to return an ienumerable or list  __label__capabilities
+jpgraph has far more capabilities than phpgraphlib  __label__capabilities
+my personal experience with both richfaces mixed better with other jsf libs icefaces has more advanced ajax capabilities like server sided push kinda like comet the basic ajax functionality is easier to set up and use but plays difficult sometimes when you mix it with other jsf libs  __label__capabilities
+i personally would just skip using awt and move to swing which provides better built in functionality for this type of thing  __label__capabilities
+swing is relatively similar to awt apart from the fact that swing has more capabilities awt is probably the simplest form to start out with and has most if not all of the tools to complete your project hope this helps  __label__capabilities
+cfstring has some slightly better functionality than nsstring but is a bit harder to use  __label__capabilities
+testng has more capabilities and can be helpful with integration tests junit is more focused on unit tests  __label__capabilities
+if you need spatial data capabilities postgis with postgresql is better than mysql  __label__capabilities
+the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static content  __label__capabilities
+i know that xlsxwriter is way faster than xlwings and have functionality to add border but it is just a writer it can t update already existing spreadsheet  __label__capabilities
+i am pretty sure mysql have similar capabilities of importing csv i just generally prefer postgresql  __label__capabilities
+however i find postgresql to support more sql features than mysql and be more efficient when handling more data  __label__capabilities
+this paper goes into this in depth but if you use a standard lda package i d recommend mallet they should have this functionality already  __label__capabilities
+further to this i m still opting for scoreloop and i can confirm this behaves the same regarding one score per user but it offers a lot more functionality and does seem to respond much quicker than openfeint did for me  __label__capabilities
+even though aurora has better capabilities i prefer marathon due to auroras complexity overhead and lack of ui for control api  __label__capabilities
+the reason that you would choose adfs over iwa is that both authenticate against ad but only adfs adds sso and federation functionality  __label__capabilities
+please keep in mind that qmake and qbs are two very different build systems with fundamentally different designs and capabilities and qbs verbosity is in part due to its fundamental architectural differences which make it far more powerful than qmake will ever be capable of  __label__capabilities
+i ve been modeling different possibilities of obtaining a decision in form of an enum to compare them expecting library functions of simulink performing better than implementing the same functionality calling matlab functions  __label__capabilities
+powermockito is an extension of other mocking frameworks like mockito or easymock that comes with more powerful capabilities  __label__capabilities
+sometimes your mxml does not get you the itch of what you are looking and actionscript gives you more power  __label__capabilities
+if you want to a little bit further you can imagine use more powerfull scm clearcase perforce ... but maven integration is fewer not well documented and community provide less examples than svn or git  __label__documented
+i also find ant with ivy to be better documented than maven although that s not too difficult  __label__documented
+finally if soappy just isn t working for you try suds it s better documented than soappy  __label__documented
+either way i intend to use smarty partly because i have lots of experience with it and partly because its much more well documented and has much more functionality than blade and to me the syntax is slightly cleaner than twig although the template engine is not the point of this question really  __label__documented
+i would recommend using theano binary lstm link or keras tutorial for this because they are fairly simple to understand and are well documented  __label__documented
+it s not too hard for the fat filesystems as it s quite simple and well documented but it s more difficult for ntfs as the filesystems is much more complicated and not-so-well documented  __label__documented
+i managed to write increment and decrement functions but the addition and subtraction seem even less documented and harder to write  __label__documented
+xcb is simpler to use has a better response to a multithread environment but lacks documentation while xlib is a more dated complex tool better documented and fully implemented  __label__documented
+given the simplicity of what you ve described as i understand it i would recommend using robobrowser as it relies on well-documented and supported python libraries requests and beautifulsoup and thus is usually easier for beginners like me and you  __label__documented
+in c you would use malloc to get memory realloc to get more memory and free to release memory  __label__memory
+according to these benchmarks it also uses less memory and cpu resources than nginx or lighttpd while running faster  __label__memory
+i mean by light weight i thought maybe the swing components occupy less memory than the awt components  __label__memory
+servers like lighthttp and nginx can handle large amounts of traffic in much less memory than apache if you can sacrifice apache s power and flexibility or if you just don t need those things which often you don t  __label__memory
+suppose char p malloc n assigns more than n say n bytes of memory are allocated and free p is used to free the memory allocated to p  __label__memory
+one interesting experiment you can try is to try and malloc more memory after you free d that pointer  __label__memory
+for a counterexample i think scheme programs ran faster and used less memory than the lisp programs that preceded them mdash  __label__memory
+firefox allocates lots of memory during that preloading up to 20-30 times more than google-chrome or safari do and even twice as much as ie  __label__memory
+if the dominant memory usage is program data structures then i wouldn t be at all surprised to find pypy using significantly less memory than cpython whether or not the jit was enabled  __label__memory
+gecko is often considered to consume less memory than webkit but this depends a lot on how the browser is implemented  __label__memory
+if an ivar is going to be changed frequently declaring a properties and always using the accessor will make it easier to avoid memory management errors  __label__memory
+int occupy more memory than boolean so the heap got corrupted  __label__memory
+everyone know int needs aroud 4 times more memory than chars  __label__memory
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort  __label__memory
+you made the right choice using setinterval instead of settimeout here as in this case settimeout would have been less efficient with memory resources  __label__memory
+first don t use wav as it takes up too much memory mp3 is better  __label__memory
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort  __label__memory
+my experience is that you should prefer vmware but that s only because i had some crashes and memory loss with virtualbox  __label__memory
+if you re interested there is another data structure called a dawg directed acyclic word graph that is similar to the trie but uses substantially less memory  __label__memory
+xrange will give you an iterable object that won t use memory as you iterate a for-loop is cleaner than a while loops + counter if you ask me  __label__memory
+sortedlist appears to use less memory and is technically a binary tree where sorteddictionary is faster with unsorted data  __label__memory
+gecko is often considered to consume less memory than webkit but this depends a lot on how the browser is implemented  __label__memory
+int needs more memory than what chars occupies and the conversion cannot be done in a safe manner  __label__memory
+if you re interested there is another data structure called a dawg directed acyclic word graph that is similar to the trie but uses substantially less memory  __label__memory
+a dawg has better memory performance if the strings have many common suffixes but they are more expensive and difficult to build and update so start with a trie  __label__memory
+memory allocation in java is 5x to 10x faster than malloc calloc etc  __label__memory
+i ve heard that rar decompression requires much more memory than zip decompression  __label__memory
+if new member fields are declared in the subclassing then yes a subclassing presumably uses more memory since it has all the fields declared in the superclass plus all the fields declared in the subclassing  __label__memory
+you will need about six times less disk space to store and memory to process your dataset compared to innodb or about 2-3 times less than archived myisam  __label__memory
+the restful services are rather thin and completely stateless whereas the admin console is stateful and has more interactive functionality and therefore more memory and processing required  __label__memory
+i m writing a program for a class where the basic problem is using a vector of unsigned int and bitwise operation to imitate a vector of boolean but use much less memory  __label__memory
+cmd processors consumes more than 60 of cpu and memory and runs for a while  __label__memory
+use a radix tree wiki or trie wiki if you are concerned about performance.the radix tree is more memory efficient compared to a trie  __label__memory
+on top of that the memory allocated with malloc will take up more space than the actual string both because the malloc and free functions need a bit of information next to the memory block to be able to do their job and because typically the size is rounded up to some good size 8 16 or 32 bytes  __label__memory
+i ve heard that rar decompression requires much more memory than zip decompression  __label__memory
+the amount of memory reserved depends on the data type a chars will take up more memory than an int  __label__memory
+another reason is that mergesort needs more memory because it s hard to implement it as an in-place sort  __label__memory
+if int is 4 bytes and represents 2 bytes the int consumes more memory than the chars -array so you are not initialising the full int -memory to 0 by setting all chars -variables  __label__memory
+in case of primitives memory comes into play.if you are going to store double into int as in your example double takes more memory as compare to integer.so there is chance of data lose.so compiler throw error.if you cast yourself then you know what you are doing so compiler let that do  __label__memory
+calloc itself is slower than malloc because you have to spend some time to clear the contents of allocated memory  __label__memory
+when you want to allocate memory via functions as malloc and calloc it is better that you use a variable for the size of memory to be allocated  __label__memory
+try vtd-xml it is much faster than jdom upto 10x and dom4j or dom and also memory efficient  __label__memory
+but after one hour i see that firefox and google-chrome got more that 1 gb of memory and sometimes even firefox crashes  __label__memory
+sortedlist tkey tvalue uses less memory than sorteddictionary tkey  __label__memory
+i read that settimeout is less cpu resources intensive than setinterval  __label__memory
+sortedlist appears to use less memory and is technically a binary tree where sorteddictionary is faster with unsorted data  __label__memory
+you re getting the outofmemory because if you declare int 1000 the memory is allocated immediately additionally double take up more space than ints-an int representation will also save you space  __label__memory
+according the books the variations of type integer occupy more or less bytes of memory depending on the architecture however the type unsigned short values can get up to 65 535 since the type unsigned long 4 294 967 295  __label__memory
+also calloc is slower than malloc from operating system memory allocation perspective  __label__memory
+and now i have learned that innodb uses more memory at-least while reading than myisam engine so i am trying to change the default engine of mysql to use myisam  __label__memory
+i know nginx has lower memory footprint and little faster than apache in serving static files  __label__memory
+myisam uses less memory than innodb and the actual data files are often quite a bit larger for innodb  __label__memory
+i remember somewhere i have read that calloc is slower than malloc because calloc performs initialization to zero after performing memory allocation  __label__memory
+with the cast that bad stuff is undefined behavior most likely double is bigger than int and it overruns the memory for i  __label__memory
+int needs less memory comparing to double numbers  __label__memory
+int storage may require less memory than double on some systems  __label__memory
+int storage may require less memory than double on some systems  __label__memory
+very fast static assets nginx is faster than apache at serving static assets css js images ... and uses very little memory to do so  __label__memory
+in short as an authentication protocol kerberos is far more secure out of the box is de-centralized and will put less load on your directory authentication servers than ldap will  __label__secure
+it is supposed i think that the algorithm cost and salt is used to make the life harder to hackers and if i use that my hash will be safer  __label__secure
+udp will almost always provide better performance than tcp at the cost of reliability  __label__secure
+we plan to use gson extensively in the application as it seems safer and better than jackson  __label__secure
+one thing to note is that std istream getline is more secure than std getline so should be preferred in some situations  __label__secure
+actually you can insert the passwords as a simple md5 hash it will still work for letting the user login though it is recommended to then change the password through the front end system as the salt passwords are more secure  __label__secure
+it was therefore deemed safer for the beginners to default to myisam and expect those that now what they are doing to amend the config or specifically select innodb in phpmyadmin when they know that is the table type they want to use  __label__secure
+typically you would not allow a http client to determine the uri of a new resource so a post to blog would be safer than a put to blog article-uri although http does cater for appropriate responses should the server be unable to honour the intended uri  __label__secure
+i know that declarative way is cleaner but sometimes imperative programming makes your business safer  __label__secure
+post is a little safer than get because the parameters are not stored in browser history or in web server logs. also data is not displayed in the url  __label__secure
+post is more secure than get this is just a quick example  __label__secure
+edit again one completely different approach would be to use pypy s sandboxing mechanism which should be much more secure than cpython plus a sandboxing module  __label__secure
+you may also try to signal the same page about a valid log-in by sending some information to the same page using the post or get methods post is more secure but i don t recommend it for this purpose at all  __label__secure
+note also the functions strncmp and memcmp which are similar to strcmp but are safer  __label__secure
+you should use a strong cryptographic hash function and a salt to make it more secure  __label__secure
+also instead of using atoi use the safer counterpart strtol  __label__secure
+myisam is often faster than innodb but isn t safe to use in a production environment for critical data  __label__secure
+it seems to me that using an unsigned integer type is safer as the constructor can then never be called with an invalid parameter value  __label__secure
+using a encypted method with a salt would be even safer but this would be a good next step past just using a md5 hash  __label__secure
+if you want to be more secure you can send the sms s more often however there is a way to understand sim-card change this is for t-mobile and europe use i guess from within the app so that the user cant fool you by enetering sms for a different msisdn and then change to his her real msisdn sim card  __label__secure
+note this example also demonstrates that it is not safe to use select max id +1 or select min id -1 as the next available unique value if we do it under concurrency  __label__secure
+one more thing some guys would misunderstand that post is safer than get as user can not see the sent data  __label__secure
+sodium_crypto_generichash which is blake2b a hash function more secure than md5 but faster than sha256  __label__secure
+if you want the entire communication to be secure not only sending username password you can use a symmetric cipher algorithm aes because asymmetric cipher algorithms rsa are much slower and consume more resources  __label__secure
+here s the question it seems that only one cfwritestreamwrite call is safe free of blocking per each kcfstreameventcanacceptbytes notification because from the second call we can t guarantee that the socket is ready to accept more data  __label__secure
+get method is not safer than post data never trust datas coming from the client side  __label__secure
+tuning innodb which is the better engine requires adjusting different values than myisam which is often the fast-but-unsafe default  __label__secure
+ps again i am aware that relying on client-side script is way less secure compared with handling all execution from within the server-side  __label__secure
+using a solution such as a prepare statement where it is not possible for a user to directly influence the actual sql query being execute is a safer alternative  __label__secure
+it is also non-standard unsafe and non-portable basically worse than using malloc and free in c++  __label__secure
+this one s an overflow but i think it illustrates the unreliability of isnumeric in general especially for int - for double it s much more reliable  __label__secure
+i find the best way is to create a cache session folder in your systems directory is more safer i put important things like logs and cache in system rather than application folder  __label__secure
+double md5 hashing is actually less secure than a single hash with some attack vectors  __label__secure
+but even in that approach i always prefer to use the safer strncmp than strcmp  __label__secure
+udp might be faster than tcp but it doesn t have the error detection and correction you are going to need in order to have a safe transfer of data  __label__secure
+block crypto algorithms like aes do suffer from this problem too but without a pki aes is no less safe than rsa  __label__secure
+locking unlocking in the getter setter is much safer you cannot forget to do it and more convenient the lock does not have to be directly accessable everywhere you use the property than an external lock on every property access  __label__secure
+in effect post is no more secure than get  __label__secure
+the hash idea should work minor note that sha-256 wouldn t present collisions md5 is no longer secure but it depends on the trade-off if the service involves something really really critical a client-side ssl certificate would be the best way to proceed  __label__secure
+on the other hand the secure tunnel created in a vpn is far more secure than remote desktop  __label__secure
+if your shell is bash or ksh or zsh it s much safer and easier to build up a command with an array rather than a string  __label__secure
+if you want to do this - and are in-fact okay with having more larger hash data to store compare - you would be much better advise to simply run a different hash function other than md5 that is either more secure and or uses a larger number of bits  __label__secure
+use a secure hashing algorithm like pbkdf2 a good one out of others and compare hash later on  __label__secure
+tortoise now has an option push new branch that may be safer than force pull or push  __label__secure
+asymmetric encryption ex rsa is no more secure than symmetric encryption ex aes  __label__secure
+i need a sip server hopefully simpler more efficient and more secure than asterisk or other full-featured pbx to just terminate sip calls and play audio based on the incoming number  __label__secure
+using a encypted method with a salt would be even safer but this would be a good next step past just using a md5 hash  __label__secure
+it worth mentioning that post is more secure and can carry more data since it uses the actual request body unlike get that appends the parameters to the url  __label__secure
+words like arbitrary processing and neither not safe make post sounds less secure than put when there is a choice  __label__secure
+while 256-bit aes might sound less secure than 4096-bit rsa they might actually be quite similar from the offered protection  __label__secure
+client-side validations can be overriden hacked thus server-side are more secure  __label__secure
+for instance if the high word is less than the modulo then it is safe to perform the division like this  __label__secure
+firefox is clearly less secured it deliberately allows something that google-chrome locks down  __label__secure
+in this situation storing password hash and the salt is more secure than storing the credentials encrypted or not because an attacker would have no way of getting the password back even if he manages to get his hands on both the hash and the salt  __label__secure
+http put isn t inherently any more secure than http post if you re allowing the uploaded files to be exceuted on your server  __label__secure
+yes that may since your allocating with new but deallocating with delelte yes malloc free is safer here but in c++ you should not use them since they won t handle de constructors  __label__secure
+innodb is relatively newer than myisam and is transaction safe  __label__secure
+i personally would use aes for my encryption as it is lighter and more secure than tripledes in fact i think it is the de facto algorithm at the moment  __label__secure
+the framework has also improved majorly not to mention it supports pdo mysqli more secure than mysql and postgresql  __label__secure
+finally sha1 hash are safer than md5 i tell you that because you used the md5 tag in your post  __label__secure
+characters post is more robust and secure than get  __label__secure
+while i think the move to swift is prudent but i think it overstates the case to argue that swift is significantly more secure that objective-c  __label__secure
+for example if the data needs reliability it will create a socket with sock_stream so it will select tcp otherwise if it doesn t need any reliability i will use sock_dgram for udp  __label__secure
+with a salt md5 is much more secure than without but you re better off using one of the sha hash such as sha256managed  __label__secure
+using sha256 with a salt will be much more secure than md5  __label__secure
+if that s true then you might not need all the transactional safety provided by the innodb storage engine and you might be able to get away with switching to myisam which is considerably more efficient on aggregate queries  __label__secure
+with a salt md5 is much more secure than without but you re better off using one of the sha hash such as sha256managed  __label__secure
+udp just has a smaller overhead than tcp but that comes at the cost of reliability  __label__secure
+as a side note from what i ve read key derivation functions pbkdf2 scrypt bcrypt are considered better more secure #1 #2 than plain salt sha-1 sha-2 hash by crypto people  __label__secure
+it doesn t even matter much what algorithm is used - one could even use md5 or md4 and the passwords would be just as safe there is a slight difference because computing a sha-1 hash is slower  __label__secure
+server-side validation is more secure than the client-side as the user cannot see the code even he does a view-source  __label__secure
+but as i understand it ntlm disallows the more secure kerberos domain credentials if they re available  __label__secure
+using prepare and execute should be faster safer easier and it won t make you feel like you re writing php in 1999  __label__secure
+hash password by using security salt is more secure than plain text password  __label__secure
+this method also allows you to put the url within the action parameter of the form and uses post which is more secured for transferring password information  __label__secure
+well unless you re targeting older than google-chrome 1.0 firefox 8.0 ie 4.0 opera 7.0 or safari 4.0 it s safe to use insertadjacenthtml  __label__secure
+the engine is myisam i ve heard people recommend switching to innodb but many others said myisam is faster with large amounts of data in terms of counting and innodb better for safe transactions  __label__secure
+as you suspect a normal free and malloc would be faster but that s because they do less  __label__speed
+i m testing some simple benchmarking calculations on win7 and linux ubuntu 16 to compare the timings and being wonder win appears to be much faster than linux  __label__speed
+re-order your script so the subtraction test is timed first then the addition and suddenly addition becomes the faster operation again  __label__speed
+so gethashcode should be much faster than actually running equals  __label__speed
+it s just a little slower than using apache bench directly against nginx  __label__speed
+if everything works use apc or memcached instead of files files usually work great but apc memc are faster  __label__speed
+the problem is that memcpy is only slighly slower than memset when i expect it to be about two times slower since it operations on twice the memory  __label__speed
+using firefox even it s slower than google-chrome it s still more respectful of privacy  __label__speed
+int multiplications however are only 1.5 times faster than double multiplications  __label__speed
+for a counterexample i think scheme programs ran faster and used less memory than the lisp programs that preceded them mdash  __label__speed
+even though vmware has been faster for me i still use virtualbox because it s good enough and is free and im cheap  __label__speed
+and that is for performance reasons assuming that a gethashcode implementation should always be much faster than an equals implementation  __label__speed
+only one disk read - since the disk is much slower then ram -  __label__speed
+i was wondering if someone could explain to me why field access seems to be slower than getter setter method access and also why the last 8 iterations execute incredibly fast  __label__speed
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort  __label__speed
+typically operations like addition and subtraction are much faster in integer -- multiplication and division less so  __label__speed
+normally quicksort is faster than mergesort which is faster than heapsort  __label__speed
+often using int math is faster than doubleint multiplications however are only 1.5 times faster than double multiplications  __label__speed
+listview gridview is more work but is faster  __label__speed
+des is usually substantially slower than aes on modern hardware and has keys that are far too short for modern use  __label__speed
+while ruby and rails don t change as often as they did a few years ago the dev ecosystem still evolves faster than linux distributions like ubuntu can keep up with  __label__speed
+i would choose option 1 for better performances apc or memcached are faster storage than filesystem and for having more control on what s happening in your project  __label__speed
+the repeater is still faster than the gridview but the difference shouldn t be big if you code it right  __label__speed
+python is an interpreted-language so by definition is slower than other compiled-language but the drawback in the execution speed is not even noticeable in most of applications  __label__speed
+reading and writing raw arrays of int and double will be faster than converting to and from text but then you need to worry about byte ordering differences in sizes for different platforms compilers structure padding etc  __label__speed
+incidentally the scrolling on the windows version of safari is fine albeit a little slower than ie opera and firefox  __label__speed
+it s 4 times faster than using malloc free and copying your data when scaling up  __label__speed
+it can be quite much faster than md5 sha functions and it produces good hash considering it output but it produces a smaller range of hash 64-bit output and as such is more likely to cause more conflicts  __label__speed
+as you have already seen when you eliminate memset datasrc 0 n the first memcpy is even slower because the pages for the source must be allocated as well  __label__speed
+udp should be much faster than tcp because there are no acknowledge and congestion detection  __label__speed
+as you run queries it has to fetch data from disk which is much slower than ram  __label__speed
+non-crypto hash are often faster than crc-32 and produce more random output similar to slow cryptographic hash md5 sha  __label__speed
+in my experiance with the two postgresql has shown to be faster on most write operations while mysql is slightly faster on the reads  __label__speed
+but sometimes postgresql is faster than mysql or mariadb  __label__speed
+when i try the demo in google-chrome or safari it is indeed much faster but when i ve tested it in firefox it s consistently slower  __label__speed
+on modern hardware floating point multiplications may run way faster than int ones so you might want to change the entire algorithm and start using double instead of int  __label__speed
+in my opinion calling getter and setter is slower than direct access to a field  __label__speed
+i have written a memory allocator that is supposedly faster than using malloc free  __label__speed
+typically mergesort is slower than heapsort and quicksort but that s usually under the assumption that comparisons are fast  __label__speed
+as you see md2 is also much much shower than the other hash the same outcome as with the php code but md5 is much faster than sha-1 and overall it took less time in delphi to do the same on the same machine as php  __label__speed
+i was expecting that udp would be faster but tcp is on average two times faster than udp  __label__speed
+however some of them like md5 have less possible hash and execute faster  __label__speed
+since these are typically orders of magnitude slower than the processors from the cpu s perspective this takes forever  __label__speed
+fast clicking on ie has slower response than firefox google-chrome and safari  __label__speed
+in case of unsigned integer division this problem does not arise which is why generally integer division works much faster for unsigned types than for signed types  __label__speed
+but you should consider that disk io is way slower than ram  __label__speed
+get is simpler and faster than post and can be used in most cases  __label__speed
+as a rule of thumb floating-point is about 2x slower than integer on  __label__speed
+disk even ssd are orders of magnitude slower than ram  __label__speed
+sodium_crypto_generichash which is blake2b a hash function more secure than md5 but faster than sha256  __label__speed
+i thought iis should be faster than or at least as fast as cassini  __label__speed
+note that just as you wrote this version is significantly slower than the inline one under cpython which of course does no jit inlining  __label__speed
+int are slightly faster but you d have to be microbenchmarking to notice. there s a small percentage difference between int and long and float and double but basically if you can afford one you can probably afford the other  __label__speed
+it is slower than os-x and safari but tolerable and you may have some issues when google-chrome s developer tools don t quite match safari but it s much better than nothing  __label__speed
+you are right that the kinect is rarely used where a keyboard mouse would be faster and more accurate but note that it is potentially relevant for accessibility  __label__speed
+in a native application i would use udp for the most data player position ... because it s way faster than tcp and it s uncritical when it is lost  __label__speed
+lastly you might consider using float or double you might think int would be faster however that is not always the case as floating point operations can be more heavily optimised both in hardware and the compiler  __label__speed
+furthermore 3des is much slower than aes  __label__speed
+if you just want the fun of linux command line programs without access to all of ubuntu cygwin is smaller and might be faster  __label__speed
+md5 hash would be faster than comparison but slower than a normal crc-check  __label__speed
+bit operations are usually faster than division or modulo calculations  __label__speed
+we have a few clients who have very high traffic sites running apache slower than nginx with varnish in front of it and they get way more traffic than you are saying with little to no performance problems  __label__speed
+directx is in general much faster than gdi due to the fact that it has full acceleration on most video cards  __label__speed
+i tried replacing the gridview with a listview and the scrolling of the listview is much faster  __label__speed
+use socket for tcp and datagram for udp its a lot faster than tcp but less connection oriented  __label__speed
+even though gethashcode itself should be fast it s not mostly faster than equivalent equals  __label__speed
+the keyboard is almost always faster than the mouse  __label__speed
+you may want to use the rabin hash which is faster and more collision resilient than cryptographic hash such as md5 sha1 et al  __label__speed
+swt became slower than swing because it uses proxy to os widgets  __label__speed
+setter and getter are somewhat slower than accessing fields directly so if you are doing heavy maths and read write these fields a lot in your subclasses you should go for accessing the fields directly  __label__speed
+i m working with both ubuntu mac but i like staying with the linux system feels faster and more stable for me  __label__speed
+mysql i am told can be optimized to do faster reads than postgresql but both are pretty ridiculously fast in terms of # transactions sec they support and it doesn t sound like that s your problem  __label__speed
+there exist battery-backed packages of ram modules which can act as an ultra-fast hdd substitute but if they attach via sata scsi or other typical disk interface the still are slower than system ram  __label__speed
+a realloc can occur significantly faster than a malloc memcpy and free  __label__speed
+mostly interpreted-language are a bit slower compared with compiled-language but i guess the difference is almost negligible in coffeescript javascript because of node.js  __label__speed
+note that using the linq min and max functions are faster than sorting the input for larger datasets o n vs  __label__speed
+so for instance heapsort is faster than quicksort in the worst case but slower in the average case  __label__speed
+ssd disk are good but they are still much slower than ram  __label__speed
+also calculating md5 hash is significantly faster than sha-256 and should be favored for performance reasons for any application that doesn t rely on the hash for security purposes  __label__speed
+they are slower less efficient than addition subtraction but they are much faster than looping and doing repeated additions  __label__speed
+it seems like you only need one column of commandeditors so jlist would ve been easier to use had it support cell editor like jtable does  __label__useeasier
+you can build apps a lot quicker with yii due to the code-gen and active record but it will be a bit harder to learn than codeigniter  __label__useeasier
+it sounds from this that it would be much easier to use declarative styles all the time but there s usually a steep learning curve for declarative languages and most people prefer imperative  __label__useeasier
+this is sometimes easier than yacc bison and usually more intuitive  __label__useeasier
+so using filewriter wrapped in a bufferedwriter to make it easier to write a new line  __label__useeasier
+while webclient may appear to be easier to use than httpwebrequest it is less flexible and will automatically perform it s callback on the ui thread and if you re downloading files in the background you almost certainly don t want this  __label__useeasier
+for a simple image toggle you might have an easier time with a hide show style instead  __label__useeasier
+vb.net might be easier to learn if you come from a pure vb6 background but i ve found most web developers with a bit of js experience can pick up the c# syntax easily enough  __label__useeasier
+for simple effects like this i always prefer settimeout since it s easier to end the animation sequence compared to setinterval  __label__useeasier
+google-chrome extensions are much easier to learn and create than firefox  __label__useeasier
+or could you restructure into nested grouping to make it easier to filtering  __label__useeasier
+this will make your work easier as searching sorting filtering than handling 3 parallel arrays  __label__useeasier
+d3.js has a steeper learning curve than chart.js but once you get the hang of it you can do pretty much anything graph related with it.official site is here  __label__useeasier
+wxpython is probably easier than pyqt or tkinter i don t want to start a framework war  __label__useeasier
+erlang has a steeper learning curve compared to elixir  __label__useeasier
+it seems that zsh is more configurable than bash but also more complicated  __label__useeasier
+my vehicle objects are in an arraylist which is iterated through with a for-loop i know a foreach loops would be easier but this is part of the assignment  __label__useeasier
+enabling the comparison value to contain spaces making it easier to parse the delimiter from the value  __label__useeasier
+treating numerical data as numerical data and in a dataframe is far easier than maintaining spaces delimiter string conversions imo  __label__useeasier
+i ve used cxxtest and cppunit and found cxxtest to be easier to use it automates generating some of the skeleton code - on the downside it needs python installed and lightweight no libraries entirely header based  __label__useeasier
+if you have not programmed assembly before i suggest you choose mips since it is easier than x86 and then b looking at how to transfer data with the serial port to begin with since this illustrates memory-mapped i o that is used  __label__useeasier
+codeigniter has the lower learning curve overall so i would recommend it over cakephp  __label__useeasier
+i prefer web2py because there are more conveniences built into the environment than offered by django but web2py is much newer than django and hindsight always makes it easier make new implementations better  __label__useeasier
+but be prepared that learning curve for robotlegs and parsley could be steeper for some  __label__useeasier
+declarative code is easier to make bug-free than imperative code  __label__useeasier
+getting your project migrated to vb.net is certainly easier when you keep the old vb6 controls  __label__useeasier
+we found redmine to be a better than trac simply because it is easier to use  __label__useeasier
+yes but if joomla is any example of how hard it is to implement a complex custom website with oop then wordpress is far easier and quicker and time is money  __label__useeasier
+you would be able to circumvent this by first running mvn clean install on magnicompcommon s pom.xml then on model pom.xml but this is much easier done by invoking maven directly on the root pom.xml  __label__useeasier
+vb.net appears much more complex then vb6 and the learning curve is tough  __label__useeasier
+i would advise you to try wicket it is very easy to learn much easier than jsf and it let s you re-use many existing components as well  __label__useeasier
+it sounds from this that it would be much easier to use declarative styles all the time but there s usually a steep learning curve for declarative languages and most people prefer imperative  __label__useeasier
+maven 2 has a steeper learning curve but provides a much richer set of functionality for building your projects and eclipse integration through m2e or iam  __label__useeasier
+on linux it would be easier for you to link to shared library and use symlinks to correct version - imo it s much easier than using dlopen + dlsym  __label__useeasier
+bazaar is imho easier to learn than git  __label__useeasier
+for students in computer science major learning programming on linux freebsd is much better than doing these on windows  __label__useeasier
+here for what it s worth is a pipes-csv variant which just compresses each parsed row into an unboxed vector of int s by hand this easier than finding double which is what this csv is really storing using readint from the bytestring package.  __label__useeasier
+joomla and wordpress are easier to configure but not as customizable as drupal is  __label__useeasier
+ironically enough its object model show more details than it hide - good for learning but bad for abstraction  __label__useeasier
+so if you are just starting out beautifulsoup may be easier to use instantly but in the end i believe lxml is more pleasant to work with  __label__useeasier
+this feature allows the processor to execute several arithmetic operations simultaneously often four 32-bit integer operations or four 32-bit floating-point operations sometimes more operations with narrower integers sometimes fewer operations with 64-bit floating-point  __label__useeasier
+for a one man shop teamcity is far easier to setup and configure than cruisecontrol  __label__useeasier
+the conversion between binary and either octal or hex is even easier than decimal  __label__useeasier
+we chose to not do cascade since it is easy enough to traverse your own model and do deletes and when the other use case pops up where you just want to delete the parent entity but not children it is easier to code and not have to undo the cascade logic  __label__useeasier
+i find that the swing library is easier to use than awt although you do still have to use awt for listeners  __label__useeasier
+it s easy much easier than installing freebsd or god forbid opensolaris pretty straightforward and the perl and python will be 64 bits out of the box and part of default installation  __label__useeasier
+delphi users might want to look at free pascal s paralel implementation of libchm since a pascal solution makes it easier embeddable  __label__useeasier
+i think beautifulsoup or even bare lxml would be easier  __label__useeasier
+although vhdl and verilog are much harder to learn i suggest you start right away  __label__useeasier
+use thin instead of webrick - thin seems easier to configure for ssl  __label__useeasier
+scheme is intentionally more compact than common lisp and you ll find that you can learn the language very quickly  __label__useeasier
+i have found highcharts to have a steeper learning curve than flot or rgraph imho  __label__useeasier
+there are lists available on the internet with millions of already hash values to make hash cracking easier those are known as rainbow tables and they can be easily countered with the use of salt  __label__useeasier
+ie provides mouseenter and mouseleave which are much easier to work with because they don t bubble but of course ie-specific  __label__useeasier
+localization it s easier to translation text than images  __label__useeasier
+emacs and vim have a bigger learning curve but they re also very powerful especially if you re already using them for something else  __label__useeasier
+i have heard that configobj is easier to use than configparser even though it is not a built-in library  __label__useeasier
+if the salt is hard-coded into a popular product lookup tables and rainbow tables can be built for that salt to make it easier to crack hash generated by the product  __label__useeasier
+that way they are in a separate file that can be parsed a bit easier than a maven pom.xml  __label__useeasier
+folder objects undoubtedly give the fullest access to file information but the older dir function is easier to use and allows specification of a filename template so i have used that  __label__useeasier
+entity-relationship diagram may be easier for you to learn  __label__useeasier
+my guess is that iphone tutorials use properties to make it easier for new developers to jump through memory management even though it s handy to generate appropriate accessor with properties rather than implement them by hand every time  __label__useeasier
+because sml is eagerly evaluated the execution model is far easier to comprehend and debugging via printf works a lot better than in haskell  __label__useeasier
+also the show and hide functions are easier than animating the opacity  __label__useeasier
+i agree with previous answers but i would also recommend to use proper java build tool - like ant perceived easier to use but not necessary or maven perceived more difficult to use but really worth learning  __label__useeasier
+of course the emacs crowd says the same thing regarding emacs-style thinking but i gave up on learning emacs because vim was simpler and did the job for me  __label__useeasier
+entity-relationship diagram may be easier for you to learn  __label__useeasier
+the only problem is that we don t know what to use our very own engine with awt or if we could use swing to make it easier  __label__useeasier
+on the other hand swift is easier to learn especially if you have objective-c background so it can be adopted during the time slowly and paralelly with using objective-c  __label__useeasier
+but its a good practice to always put the brackets to help making your code easier to read so you wouldn t get confused in more complex algorithms  __label__useeasier
+download xcode free and learn objective-c or swift swift is easier to learn than objective-c  __label__useeasier
+i actually found the setup of nginx much easier than lighttpd not to mention that you can install a macport of nginx port install nginx +ssl that does not contain the ssl-breaking bug that lighttpd suffers from here  __label__useeasier
+sure there is a learning curve with maven but reading a pom.xml is far easier than reading a build.xml  __label__useeasier
+between cruisecontrol and teamcity teamcity is faster and easier to set up but you may need to check on licensing for it  __label__useeasier
+junit is more direct and simpel to use if you start to learn java testng has more features but maybe is more complex  __label__useeasier
+if you wanted to go the php route use something like cakephp everyone will say laravel but the learning curve for laravel is much steeper than it is for other less flexible but more compact frameworks  __label__useeasier
+fossil is another one that s easy to use i would say easier than git to learn but it uses an sqlite file to store your code and i m not sure if it scales to really big projects  __label__useeasier
+tcl might be easier to embed than perl but i do have to agree matthew scharley s reasoning  __label__useeasier
+personally i would recommend testng although if you re just starting junit is slightly less of a learning curve  __label__useeasier
+for the record jmock as of today supports more complex scenarios than mockito that s why the initial learning curve is steeper  __label__useeasier
+i think you ll find that web2py is even easier to learn and use than rails and django  __label__useeasier
+i would recommend using beautifulsoup or lxml it s worth the learning curve  __label__useeasier
+lxml enables you to search for elements using xpath which i think is easier than using beautifulsoup s api  __label__useeasier
+multiplication is even easier as you dont have to line up the decimal points you just do the math on the significant digits and simply add the exponent  __label__useeasier
+keras is a higher level library that is much easier to learn than tensorflow and you have more sample code online  __label__useeasier
+i also find sorting and filtering is also easier on windows forms  __label__useeasier
+i have done some cross-platform development before on freebsd linux which was considerably easier - and i had people in the group with experience that i could talk to  __label__useeasier
+xhtml has a stronger syntax than html and is easier to convert to apache-fop this way  __label__useeasier
+if you re using googletest you may be able to use gmock to make this easier  __label__useeasier
+using a different server such as one apache and one nginx or one apache and one lighttpd will be much easier because their configuration files don t conflict with each other  __label__useeasier
+even though git-svn is easier to start with here are some further reasons why using the kde svn2git instead of git-svn is superior besides its flexibility  __label__useeasier
+the comaddin base class makes it a bit easier to create an office add-in and reduce infrastructure code to be more familar with vsto - thats the whole idea  __label__useeasier
+because you can created very targeted css show hide could be easier round corners and adding text for accessibility will be easier etc  __label__useeasier
+struct foo is easier to parse then typedef d foo as the name-lookup is simpler  __label__useeasier
+ocaml will be easier to learn if you coming from almost any other language this is because haskell is as function as functional languages get and working with mutable random access structures can be a little clunky in haskell  __label__useeasier
+mouseover rather than on mousedown makes it easier to catch moving  __label__useeasier

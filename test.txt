@@ -1,0 +1,94 @@
+memcached has more functionality but is intended for distributed environments while apc works on single servers only  __label__capabilities
+you can use other framework like elasticsearch and kibana to have more functionality available for the logs  __label__capabilities
+on one hand slick2d is fast and simple but it seems lwjgl is more adaptable in the sense that it has both 2d and 3d capabilities  __label__capabilities
+instead you can support more than the jks and try the default keystore type and if it fails try the #pkcs12  __label__capabilities
+lxml is faster than beautifulsoup i think and has much better functionality while remaining relatively easy to use  __label__capabilities
+cakephp is newer more feature rich and heavier than codeigniter codeigniter is designed to have a much smaller footprint so you will most likely find yourself creating functionality in codeigniter to match cake s  __label__capabilities
+my personal experience with both richfaces mixed better with other jsf libs icefaces has more advanced ajax capabilities like server sided push kinda like comet the basic ajax functionality is easier to set up and use but plays difficult sometimes when you mix it with other jsf libs  __label__capabilities
+obviously this may cause problems such as missing functionality that was released in later versioning of devtools but if you can t upgrade it s better than not having it  __label__capabilities
+perforce offers more advanced branching and merging capabilities than svn  __label__capabilities
+the demonstration of tcpdf i saw at the following presentation showed that tcpdf may have more in-built capabilities the fpdf  __label__capabilities
+testng has more capabilities and can be helpful with integration tests junit is more focused on unit tests  __label__capabilities
+i have found that jedit has better plugins for providing some of the more ide-oriented capabilities but like boltclock said notepad++ is really just a powerful text editor and does not try to be a one-stop-shop ide  __label__capabilities
+if you are new to linux i would recommend ubuntu as that is a popular linux distro and is well documented and has a super active community that can help you out if when you get stuck  __label__documented
+both a renderscript and opengl are used for getting high performance graphics and animation s.but still opengl is the best option to get high performance graphics because it is well documented and you will have more control over the glsurfaceview .but in renderscript some of the classes are depreciated in the current versions .its almost not possible to make a rssurfaceview to transparent  __label__documented
+until now my thought was to use symfony2 plus an mvc framework for the front-end like backbone.js or ember.js prefer ember.js as it seems more documented and in general more organized and easier  __label__documented
+nginx uses less memory than apache given the size of your setup i would definitely recommend that  __label__memory
+i m worried that this will effectively upgrade my existing 1.6 to 1.7 the newer gives me lots of memory issues in my apps - yeah that s as backwards as it sounds the newer versioning being worse at memory management - probably due to how our apps are built  __label__memory
+if you care about memory a std ostringstream can be more useful that the + operator  __label__memory
+another reason is that mergesort needs more memory because it s hard to implement it as an in-place sort  __label__memory
+also have a look at nginx for example it is fast and uses less memory than apache to handle client connections  __label__memory
+i switched from apache to nginx to save memory especially to serve static file i seem to be using about 75 less memory with nginx  __label__memory
+one option is to use visualvm however a commercial profiler like yourkit may handle larger memory sizes better  __label__memory
+another reason is that mergesort needs more memory because it s hard to implement it as an in-place sort  __label__memory
+when people talk about pypy using less memory than cpython this is a major part of what they re talking about  __label__memory
+the os heap uses the cpu s virtual memory hardware and is free from fragmentation issues and can even effectively use the disk s swap space allowing you to allocate more memory than available ram  __label__memory
+note i recommend using opera - it is much faster than google-chrome as it doesn t have memory leaks and comes with a built-in ad blocker  __label__memory
+nginx uses an event based non blocking single thread and the memory usage is relatively much lower than apache  __label__memory
+or would it be good practice to use an unsigned chars in this case since it allocates less memory than a short int  __label__memory
+most likely double is bigger than int and it overruns the memory for  int needs less memory comparing to double numbers  __label__memory
+allocating more memory with malloc does not prevent the memory error if the free call inside the dosomething method is incommented  __label__memory
+strncmp is a little bit safer than strcmp because you specify how many comparisons will be made at most  __label__secure
+alternatively scrypt bcrypt or pbkdf2 provide more secure algorithms  __label__secure
+des is the least secure 3des is better but i d go for the aes  __label__secure
+use daemons mode and then simply touching the wsgi script file when an atomic set of changes have been completed isn t that hard and certainly safer than a systemd which restarts arbitrarily when it detects any single change  __label__secure
+alternatively can i use something far way better and way more secure by using ucma or ucwa or any other api.  __label__secure
+the wrapper uses these in such a way that even the md5 implementation is significantly more secure than a simple hash  __label__secure
+the decision on yours the tcp protocol used for connection oriented network that is more secure than udp  __label__secure
+as for reliability i think that postgresql is more reliable especially when compared to mysql using myisam - innodb is a lot better here  __label__secure
+the very latest versions of google-chrome and firefox can still be installed on windows xp and anybody who doesn t believe new versions of google-chrome or firefox are vastly more secure than ancient bug-riddled ie6 is fooling themselves  __label__secure
+tcp is much better than udp in terms of reliability  __label__secure
+post data isn t inherently more secure than get data  __label__secure
+using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text  __label__secure
+sockets can work as could udp multicast careful there though no way to know if a message was missed which is why tcp sockets are safer  __label__secure
+that code appears to be less secure than the bsd solaris versions since it doesn t take into account the saved setid bits  __label__secure
+now personally i generally use a salt sha-256 hash on my passwords because i thought that md4 and md5 were no longer secure and that hashing a password multiple times would just put too much strain on a server for no practical benefit  __label__secure
+one of the reasons we want to move is because swift is more secure than objective-c  __label__secure
+udp is also more work than tcp if you need reliability which is built in to tcp  __label__secure
+swift in that case would not be safer but less safe than objective-c  __label__secure
+a subform of assigned children would be safer or an assign form listing only unassigned children that includes a combobox based on the child table parent id foreign key to select a parent  __label__secure
+with correct locking for safety reasons and heavy concurrent use postgresql performed better than mysql  __label__secure
+additionally with the base being a power of 2 the modulo and division operations are much faster than with your base-10 approach  __label__speed
+tracing profiling are slower but more accurate they also require that the program be changed the instrumentation process which could potentially introduce bugs not that i have heard of it happening.  __label__speed
+note how browsers that use v8 google-chrome opera 20 are slower with the delete than without it  __label__speed
+if the multiplication is truly faster than the addition then i expect somebody well-versed in byte code could explain why the load_fast for num is faster than the five operations for line 12  __label__speed
+in general the dbx prior versioning code we upgrade from was faster at executing queries than firedac  __label__speed
+accessor properties with getter and setter are much slower than real get set methods  __label__speed
+at the very least i would have expected that before memset b 0 len that memcpy would be slower because the of lazy allocation first touch on the first of the 100 iterations  __label__speed
+in my understanding repeater is most suitable since it faster than gridview  __label__speed
+you re unlikely to find anything faster than the min and max functions  __label__speed
+an interpreted-language will typically run one to two orders of magnitude slower than a compiled-language  __label__speed
+in practice i know that using getter setter are slower than using function calls and that function calls are slower than directly accessing public variables  __label__speed
+angular 4 is just an imrovement over previous one like adding if then else as in for-loop addition of titlecase in pipe filters typescript versioning upgrade which is faster etc  __label__speed
+in that case some hash functions are somewhat faster than other md5 being one of the fast functions but md4 is faster and it is simple enough that its code can be included in any application without much hassle  __label__speed
+while not really a console skulpt.org runs python code client-side with no plugins or anything which makes it a lot faster than a server-side prompt  __label__speed
+the justification of realloc is that it s faster than 2nd malloc manual copy free  __label__speed
+also note that they are much slower than proper getter and setter  __label__speed
+this type of flexibility is what draws me to bazaar despite the fact that git is wildly more popular and faster  __label__speed
+because of how google-chrome s plugin system works development mode in google-chrome is much slower than in firefox or safari see here for more details  __label__speed
+the atom feed option seems to load faster than the rss one fwiw  __label__speed
+maybe division between double and int is faster than it between double  __label__speed
+fwiw i find sproutcore to be easier to work with than cappuccino if you re interested in heavier non-progressive enhancement frameworks  __label__useeasier
+cdi is so much more mature than seam 2 bijection jsf 2 is so much easier than jsf 1.2 that any kind of application development will simply be much more fun with seam 3  __label__useeasier
+it is written in tcl which is a language somewhat simpler than perl but broadly in the same family and not difficult to learn  __label__useeasier
+i believe that ubuntu is better than centos when it comes to mono as it is much easier to setup and seems to be better supported  __label__useeasier
+a set or bag is easier to map in hibernate and requires fewer database columns  __label__useeasier
+using just the keyfn return a comparable value that matches your requirements is much easier than implementing comparator  __label__useeasier
+i am starting to understand that even though emacs is more powerful than vim vim is at least 10 times easier to use less keystrokes and requires way less modifications  __label__useeasier
+i ve used bugzilla and mantis but i prefer mantis simplicity  __label__useeasier
+as others have pointed out ocaml s learning curve will be lower than haskell s  __label__useeasier
+it s probably easier to learn from scratch than cvs but i don t have experience that way. if someone needed a centralized source-control system i would recommend perforce as long as they had the resources to license it  __label__useeasier
+well sometimes performance and usability can be at odds but i ve found gson to be easier to use than alternatives like jackson org.json and others  __label__useeasier
+yii has a higher learning curve than say codeigniter and cakephp  __label__useeasier
+you may find this task easier with pexpect which is a third-party module for automating subprocess keyboard interaction  __label__useeasier
+if the latter is what you want you could use rtf which is somewhat easier than the doc format  __label__useeasier
+since the hash is generated using the original long salt using a trimmed salt later would just yield an invalid hash when specifying the original password - it doesn t make it any easier to find a hash collision  __label__useeasier
+readability is a big reason for functions using recursion rather than loops makes them easier to follow and for using the iteration methods where possible map to transform an arrays values-by-value rather than a for-loop  __label__useeasier
+you can use a while loops to achieve the desired results but a for-loop is much easier to implement in this situation  __label__useeasier
+there are libraries that build on the xml apis jdom dom4j or xom which are easier to use than the raw apis  __label__useeasier
+having said that web2py has a lower initial learning curve than django as it was specifically designed as a learning tool  __label__useeasier
+i also checked prolog and it seems a pretty cool language easy to do relations between data and easier than lisp but i d like to hear what you think  __label__useeasier
+i found simpletest was even easier than phpunit to set up  __label__useeasier
+my experience is that designers can use whichever they prefer usually and most agree that verilog is easier to use and the code is shorter fact than equivalent vhdl  __label__useeasier
+in my opinion swing is easier to learn and to use but the results of swt are often nicer - you can often feel that a swing application behaves not completely right  __label__useeasier
+it is also possible to manipulate the inputs so that various parts of the calculation return 0 for addition or subtraction or 1 for multiplication or division to make testing easier but this only gets me so far  __label__useeasier

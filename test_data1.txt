@@ -1,0 +1,63 @@
+until now my thought was to use symfony2 plus an mvc framework for the front-end like backbone.js or ember.js prefer ember.js as it seems more documented and in general more organized and easier  __label__documented
+if you want to a little bit further you can imagine use more powerfull scm clearcase perforce ... but maven integration is fewer not well documented and community provide less examples than svn or git  __label__documented
+it has functionality the same as a canvas but swing is more advanced and has better features than awt  __label__function
+we ve recently switched from trac to redmine where i work and i think i like it a little more than trac and use the wiki functionality almost everyday  __label__function
+you could also use silverlight 5 which has a 3d api and audio api that matches xna and has a toolkit available that adds 2d xna functionality like spritebatch and more making the majority of the xna api available  __label__function
+you can then use imagecopy to insert each gif image including the background and imagepng to generate png output which is better for line art than jpeg offers better compression than gif and can support more than 256 colors  __label__function
+i know that xlsxwriter is way faster than xlwings and have functionality to add border but it is just a writer it can t update already existing spreadsheet  __label__function
+in my opinion swing is easier to learn and to use but the results of swt are often nicer - you can often feel that a swing application behaves not completely right  __label__learn
+so i ve started learning swift because it looks way better than objective-c  __label__learn
+fossil is another one that s easy to use i would say easier than git to learn but it uses an sqlite file to store your code and i m not sure if it scales to really big projects  __label__learn
+of course the emacs crowd says the same thing regarding emacs-style thinking but i gave up on learning emacs because vim was simpler and did the job for me  __label__learn
+vb.net appears much more complex then vb6 and the learning curve is tough  __label__learn
+vb.net might be easier to learn if you come from a pure vb6 background but i ve found most web developers with a bit of js experience can pick up the c# syntax easily enough  __label__learn
+it is worth learning both because emacs is better than vim at editing certain languages and doing certain tasks and vice versa  __label__learn
+maven 2 has a steeper learning curve but provides a much richer set of functionality for building your projects and eclipse integration through m2e or iam  __label__learn
+imho it is harder to learn how to create fast and simple web apps with django which is why i recommend web2py  __label__learn
+if you use another library like glut or sdl it becomes much easier let the library worry about setting up a window and then you can focus on learning opengl  __label__learn
+i would recommend learning haskell and a dialect of lisp such as scheme or common lisp if you master either of those you ll gain insight into how things are accomplished with the functional paradigm and it ll help out your python as well  __label__learn
+although if i was just learning i d choose scheme and have a field-day with continuations call-cc - it s definitely one of the more academic lisp dialects  __label__learn
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort  __label__memory
+note i recommend using opera - it is much faster than google-chrome as it doesn t have memory leaks and comes with a built-in ad blocker  __label__memory
+sortedlist tkey tvalue uses less memory than sorteddictionary tkey  __label__memory
+we started off using objects int double and had less than desirable performance both in terms of memory and speed  __label__memory
+sorteddictionary offers same advantages than sortedlist but performs better if values to insert are not already sorted  __label__memory
+still jsf might have performance issues as compared to action-based frameworks like stripes which work more closely to http requests without building component model which is using more memory more network bandwidth  __label__performance
+also it seems jackson lib has better performance than other packages such as gson which i haven t tried personally  __label__performance
+overall kohana is more flexible than codeigniter and a great base to build a web application and api on  __label__performance
+and im not shure about this statement javascript likes settimeout more than setinterval which gives a little performance boost  __label__performance
+some aspect of ubuntu are better and some aspects of freebsd are better in terms of performance numbers  __label__performance
+mbunit has compatible syntax with nunit but has more features especially data driven tests  __label__performance
+freemarker provides much better native whitespace handling recent velocity releases provide more interesting content controls  __label__performance
+webrequest just offers you more functonality than webclient  __label__performance
+in production it is much better to use a more sophisticated server like phusion passenger or unicorn since they have better performance than thin mongrel or webrick  __label__performance
+keep in mind that i am using lodash by john-david dalton instead of underscore.js because lodash provides better performance and a custom build process  __label__performance
+settimeout is better than setinterval here because setinterval will start at every 5 secs but settimeout will start once each time your job is done and wait for 5 seconds which will make your script adaptive to server response timings  __label__performance
+tinyint or int for that purpose is indexed faster and gives better performance in sort or selects than varchar or chars  __label__performance
+although this thread is more than a year old it still merits from the fact that no one mentioned about the not so recent innovations of nginx lighty and other web servers which scale much better than apache at higher concurrency and consume lesser resources  __label__performance
+png is a newer format and often better than either jpeg of gif - especially for screenshots  __label__performance
+the more hash-collision you have the worse the performance of hash maps because much of the hash maps good performance relies on as few as possible key in the same hash buckets  __label__performance
+performance measurements of jython ironpython and cpython show that both jython and ironpython outperform cpython for some cases with large datasets  __label__performance
+all in all jackson is considered to be faster but i ve also read that gson gives better performance when working with large objects  __label__performance
+i m working with both ubuntu mac but i like staying with the linux system feels faster and more stable for me  __label__performance
+is there a better way than show hide that would be easier on the memory performance  __label__performance
+in this case keyboard input is essential and more important than mouse interaction  __label__performance
+i personally would use aes for my encryption as it is lighter and more secure than tripledes in fact i think it is the de facto algorithm at the moment  __label__secure
+the decision on yours the tcp protocol used for connection oriented network that is more secure than udp  __label__secure
+it doesn t even matter much what algorithm is used - one could even use md5 or md4 and the passwords would be just as safe there is a slight difference because computing a sha-1 hash is slower  __label__secure
+udp just has a smaller overhead than tcp but that comes at the cost of reliability  __label__secure
+using prepare and execute should be faster safer easier and it won t make you feel like you re writing php in 1999  __label__secure
+it worth mentioning that post is more secure and can carry more data since it uses the actual request body unlike get that appends the parameters to the url  __label__secure
+also calculating md5 hash is significantly faster than sha-256 and should be favored for performance reasons for any application that doesn t rely on the hash for security purposes  __label__speed
+but you should consider that disk io is way slower than ram  __label__speed
+angular 4 is just an imrovement over previous one like adding if then else as in for-loop addition of titlecase in pipe filters typescript versioning upgrade which is faster etc  __label__speed
+tracing profiling are slower but more accurate they also require that the program be changed the instrumentation process which could potentially introduce bugs not that i have heard of it happening.  __label__speed
+bit operations are usually faster than division or modulo calculations  __label__speed
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort  __label__speed
+multiplication is even easier as you dont have to line up the decimal points you just do the math on the significant digits and simply add the exponent  __label__useeasier
+my experience is that designers can use whichever they prefer usually and most agree that verilog is easier to use and the code is shorter fact than equivalent vhdl  __label__useeasier
+i prefer web2py because there are more conveniences built into the environment than offered by django but web2py is much newer than django and hindsight always makes it easier make new implementations better  __label__useeasier
+my guess is that iphone tutorials use properties to make it easier for new developers to jump through memory management even though it s handy to generate appropriate accessor with properties rather than implement them by hand every time  __label__useeasier
+using a different server such as one apache and one nginx or one apache and one lighttpd will be much easier because their configuration files don t conflict with each other  __label__useeasier
+for simple effects like this i always prefer settimeout since it s easier to end the animation sequence compared to setinterval  __label__useeasier
+you may find this task easier with pexpect which is a third-party module for automating subprocess keyboard interaction  __label__useeasier
