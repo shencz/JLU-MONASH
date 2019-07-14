@@ -63,64 +63,6 @@ json_file.close()
 print("load weights into new model")
 loaded_model.load_weights('fasttext_model.hdf5')
 
-# key_name = max(word_index, key=word_index.get)
-# word_index.update({'<PAD/>': 88585})
-
-# sentence = open('sentence.txt').read()
-# sentence = re.sub(r"\.|\?|!|-|,|'|<br />", " ", sentence)
-# sentence = sentence.strip()
-# sentence = ' '.join(sentence.split())
-# sentence = sentence.lower()
-# sentence_word = sentence.split(" ")
-# print(sentence_word)
-
-
-# num_padding = 400 - len(sentence_word) # number of padding elements for the sentence
-# new_sentence = sentence_word + ['<PAD/>'] * num_padding
-# print(new_sentence)
-
-#
-# sentence_index = [word2id[word] for word in sentence_word]
-# print(sentence_index)
-# bigram = create_ngram_set(sentence_index, ngram_value=2)
-# print(bigram)
-# for i in bigram:
-#     print(token_indice[i])
-
-# sentence = open('sentence.txt').read()
-# print(sentence)
-# print(type(sentence))
-# sentence_word = txt.text_to_word_sequence(sentence)
-# print(sentence_word)
-# print(type(sentence_word))
-
-
-
-
-
-# sentence_num = [word2id[word] for word in sentence_word]
-# sentence_num.insert(0, 1)
-# print(sentence_num)
-# print(type(sentence_num))
-# sentence_len = len(sentence_num)
-
-# num_padding = 400 - len(sentence_num)
-# padded_sentence = sentence_num + [0] * num_padding
-# print(padded_sentence)
-
-# padded_sentence_num = sequence.pad_sequences([sentence_num],maxlen=maxlen, padding='post')
-# print(padded_sentence_num)
-# print(type(padded_sentence_num))
-# for i in padded_sentence_num[0]:
-#     print(id2word[i])
-# padded_sentence_num = padded_sentence_num[0]
-# sentence_num = sentence_num[0]
-# print(sentence_num)
-#
-# padded_sentence = np.array([padded_sentence,])
-#
-# print(padded_sentence)
-
 y = np.loadtxt('y_test_ft.txt')
 x = np.loadtxt('x_test_ft.txt')
 t = 106
