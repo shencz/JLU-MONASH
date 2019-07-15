@@ -1,25 +1,4 @@
-ssh://shencz@101.200.125.7:30022/usr/bin/python -u /home/shencz/nlp_experiment/sentiment_analysis/CNN_predivtrate.py
-Using TensorFlow backend.
-Load model
-read json
-load model from json
-load weights into new model
-2019-07-12 15:09:00.138359: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2019-07-12 15:09:00.253519: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1405] Found device 0 with properties: 
-name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.607
-pciBusID: 0000:17:00.0
-totalMemory: 10.92GiB freeMemory: 10.77GiB
-2019-07-12 15:09:00.343363: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1405] Found device 1 with properties: 
-name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.607
-pciBusID: 0000:65:00.0
-totalMemory: 10.91GiB freeMemory: 10.75GiB
-2019-07-12 15:09:00.344232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1484] Adding visible gpu devices: 0, 1
-2019-07-12 15:09:00.952909: I tensorflow/core/common_runtime/gpu/gpu_device.cc:965] Device interconnect StreamExecutor with strength 1 edge matrix:
-2019-07-12 15:09:00.952948: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971]      0 1 
-2019-07-12 15:09:00.952953: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] 0:   N Y 
-2019-07-12 15:09:00.952957: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] 1:   Y N 
-2019-07-12 15:09:00.953070: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1097] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10419 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:17:00.0, compute capability: 6.1)
-2019-07-12 15:09:01.057218: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1097] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10396 MB memory) -> physical GPU (device: 1, name: GeForce GTX 1080 Ti, pci bus id: 0000:65:00.0, compute capability: 6.1)
+
 __________________________________________________________________________________________________
 Layer (type)                    Output Shape         Param #     Connected to                     
 ==================================================================================================
