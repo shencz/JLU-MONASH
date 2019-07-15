@@ -36,6 +36,8 @@ for fasttext_bigram, there are 354 wrong predict samples.
 
 Of the data that the fasttext_bigram model predicted incorrectly, 137 were correctly predicted by the CNN model, accounting for 38.7%
 
+The forecast details are in the .txt file.
+
 
 
 
