@@ -29,8 +29,11 @@ sigmoid_p.jpg include the sigmoid distributions of positive simples. Where sigmo
 | val_acc |  90.28  |     91.83     |     91.62     |  89.29  |   89.4  |
 
 - error statistics
+
 4333 test sample in total
+
 for fasttext_bigram, there are 354 wrong predict samples.
+
 Of the data that the fasttext_bigram model predicted incorrectly, 137 were correctly predicted by the CNN model, accounting for 38.7%
 
 
