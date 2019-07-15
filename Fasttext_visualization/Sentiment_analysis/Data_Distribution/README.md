@@ -26,7 +26,7 @@ sigmoid_p.jpg include the sigmoid distributions of positive simples. Where sigmo
 
 | model   |fasttext |fasttext_bigram|fasttext_trgram|   cnn   |   rnn   |
 |:-----   | :-----: | :-----------: | :-----------: | :-----: | :-----: |
-| val_acc |  90.28  |     91.83     |     91.62     |  89.29  |         |
+| val_acc |  90.28  |     91.83     |     91.62     |  89.29  |   89.4  |
 
 
 
