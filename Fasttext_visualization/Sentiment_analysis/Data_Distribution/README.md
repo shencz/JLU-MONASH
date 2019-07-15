@@ -24,9 +24,9 @@ sigmoid_predict_p.jpg includes the sigmoid distributions of simples predicted po
 
 - model acc
 
-| model   |fasttext |fasttext_bigram|fasttext_trgram|   cnn   |   rnn   |
-|:-----   | :-----: | :-----------: | :-----------: | :-----: | :-----: |
-| val_acc |  90.28  |     91.83     |     91.62     |  89.29  |   89.4  |
+| model   |fasttext |fasttext_bigram|fasttext_trgram|   cnn   |   AttentioBasedGRU   |
+|:-----   | :-----: | :-----------: | :-----------: | :-----: | :------------------: |
+| val_acc |  90.28  |     91.83     |     91.62     |  89.29  |         89.4         |
 
 - error statistics
 
@@ -35,6 +35,8 @@ sigmoid_predict_p.jpg includes the sigmoid distributions of simples predicted po
 for fasttext_bigram, there are 354 wrong predict samples.
 
 Of the data that the fasttext_bigram model predicted incorrectly, 137 were correctly predicted by the CNN model, accounting for 38.7%
+
+Of the data that the fasttext_bigram model predicted incorrectly, 136 were correctly predicted by the GRU model, accounting for 38.4%
 
 The forecast details are in the .txt file.
 
