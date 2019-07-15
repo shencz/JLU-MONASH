@@ -1,25 +1,4 @@
-ssh://shencz@101.200.125.7:30022/usr/bin/python -u /home/shencz/nlp_experiment/sentiment_analysis/ft_ngram_predictrate.py
-Using TensorFlow backend.
-Load model
-read json
-load model from json
-load weights into new model
-2019-07-12 13:05:30.611116: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2019-07-12 13:05:30.796321: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1405] Found device 0 with properties: 
-name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.607
-pciBusID: 0000:17:00.0
-totalMemory: 10.92GiB freeMemory: 10.77GiB
-2019-07-12 13:05:30.886221: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1405] Found device 1 with properties: 
-name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.607
-pciBusID: 0000:65:00.0
-totalMemory: 10.91GiB freeMemory: 10.75GiB
-2019-07-12 13:05:30.887199: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1484] Adding visible gpu devices: 0, 1
-2019-07-12 13:05:31.514096: I tensorflow/core/common_runtime/gpu/gpu_device.cc:965] Device interconnect StreamExecutor with strength 1 edge matrix:
-2019-07-12 13:05:31.514134: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971]      0 1 
-2019-07-12 13:05:31.514139: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] 0:   N Y 
-2019-07-12 13:05:31.514142: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] 1:   Y N 
-2019-07-12 13:05:31.514251: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1097] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10419 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:17:00.0, compute capability: 6.1)
-2019-07-12 13:05:31.639680: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1097] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10396 MB memory) -> physical GPU (device: 1, name: GeForce GTX 1080 Ti, pci bus id: 0000:65:00.0, compute capability: 6.1)
+
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
