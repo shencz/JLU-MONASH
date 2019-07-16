@@ -26,7 +26,7 @@ sigmoid_predict_p.jpg includes the sigmoid distributions of simples predicted po
 
 | model   |fasttext |fasttext_bigram|fasttext_trgram|   cnn   |   AttentioBasedGRU   |
 |:-----   | :-----: | :-----------: | :-----------: | :-----: | :------------------: |
-| val_acc |  90.28  |     91.83     |     91.62     |  89.29  |         89.4         |
+| val_acc |  90.28  |     91.83     |     91.62     |  89.32  |         89.4         |
 
 - error statistics
 
