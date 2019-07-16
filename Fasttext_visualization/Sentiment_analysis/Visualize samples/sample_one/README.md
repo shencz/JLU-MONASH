@@ -10,10 +10,10 @@ The fasttext_bigram visualization with sigmoid 0.4540673 predict negative and la
 
 ![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/ft_bigram.png)
 
-The cnn visualization with 0.33760345 probability predict negative and 0.6623965 probability predict positive. Finally predict positive but labeled negative.
+The cnn visualization with 0.2783944 probability predict negative and 0.7216056 probability predict positive. Finally predict positive but labeled negative.
 
 ![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/cnn.png)
 
 The Attentionbased gru visualization with sigmoid 0.950046 predict positive but labeled negative.
 
-![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/gru.png)
+![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/att_gru.png)
