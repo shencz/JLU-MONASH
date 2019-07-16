@@ -1,4 +1,3 @@
-
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -13,6 +12,7 @@ Trainable params: 218,347,649
 Non-trainable params: 0
 _________________________________________________________________
 Loading testing data
+2019-07-16 03:33:45.317218: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10.0 locally
 1 [[1]] 0.0
 81 [[0]] 1.0
 83 [[1]] 0.0
@@ -370,4 +370,3 @@ Loading testing data
 354
 4333
 
-Process finished with exit code 0
