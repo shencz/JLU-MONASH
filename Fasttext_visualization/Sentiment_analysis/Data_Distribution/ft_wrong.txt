@@ -13,6 +13,7 @@ Non-trainable params: 0
 _________________________________________________________________
 Loading testing data
 2019-07-16 03:27:17.653715: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10.0 locally
+index predict label
 1 [[1]] 0.0
 13 [[1]] 0.0
 22 [[1]] 0.0
