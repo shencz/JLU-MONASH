@@ -10,7 +10,7 @@ saver = tf.train.Saver()
 with tf.Session() as sess:
     saver.restore(sess,MODEL_PATH)
     num = 0
-    wa_gru = []
+    wa_han = []
     for t in range(len(X_test)):
         x_batch_test, y_batch_test = X_test[t:t + 1], y_test[t:t + 1]
         seq_len_test = np.array([list(x).index(0) + 1 for x in x_batch_test])
@@ -20,9 +20,9 @@ with tf.Session() as sess:
             num = num + 1
         # Represent the sample by words rather than indices
             print(t,round(sigmoid_p, 0),y_test[t:t + 1],sigmoid_p)
-            wa_gru.append([t,round(sigmoid_p, 0),y_test[t:t + 1],sigmoid_p])
+            wa_han.append([t,round(sigmoid_p, 0),y_test[t:t + 1],sigmoid_p])
     print(num,t)
-    np.savetxt("WA_GRU.txt",wa_gru)
+    np.savetxt("WA_HAN.txt",wa_han)
 
 
 
