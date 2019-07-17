@@ -12,6 +12,7 @@ Trainable params: 218,347,649
 Non-trainable params: 0
 _________________________________________________________________
 2019-07-16 03:51:01.073927: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10.0 locally
+index predict label mean sigmoid
 1 [[1]] 0.0 0.3688650855811247 0.9258044
 81 [[0]] 1.0 0.30493482676240286 0.44937745
 83 [[1]] 0.0 0.33246934753034096 0.69075316
