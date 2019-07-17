@@ -18,6 +18,6 @@ The cnn visualization with 0.2783944 probability predict negative and 0.7216056 
 
 ![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/cnn.png)
 
-The Attentionbased gru visualization with sigmoid 0.07708523 predict negative and labeled negative.
+The rnn(han) visualization with sigmoid 0.07708523 predict negative and labeled negative.
 
-![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/att_gru.png)
+![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_one/rnn(han).png)
