@@ -14,6 +14,6 @@ The cnn visualization with 8.138838e-06 probability predict negative and 0.99999
 
 ![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_three/cnn.png)
 
-The Attentionbased gru visualization with sigmoid 0.9999937 predict positive and labeled positive.
+The rnn(han) visualization with sigmoid 0.9999937 predict positive and labeled positive.
 
-![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_three/att_gru.png)
+![image](https://github.com/shencz/JLU-MONASH/blob/Shencz/Fasttext_visualization/Sentiment_analysis/Visualize%20samples/sample_three/rnn(han).png)
