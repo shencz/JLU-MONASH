@@ -3,7 +3,7 @@
 Example of attention coefficients visualization
 Uses saved model, so it should be executed after train.py
 """
-from rnn_train import *
+from han_train import *
 
 saver = tf.train.Saver()
 t = 106
