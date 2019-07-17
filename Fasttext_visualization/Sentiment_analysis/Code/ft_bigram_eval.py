@@ -17,39 +17,11 @@ def predict():
     :return: None
     """
 
-    # print('Loading data...')
-    # (x_train, y_train), (x_test, y_test) = imdb.load_data()
-    # print(len(x_train), 'train sequences')
-    # print(len(x_test), 'test sequences')
-    # print('Average train sequence length: {}'.format(
-    #     np.max(list(map(len, x_train)))))
-    # print('Average test sequence length: {}'.format(
-    #     np.max(list(map(len, x_test)))))
-    #
-    # # print(x[0])
-    # x_all = x_train.tolist() + x_test.tolist()
-    # y_all = y_train.tolist() + y_test.tolist()
-    #
-    # x = []
-    # y = []
-    # for num, item in enumerate(x_all):
-    #     if len(item) <= 400:
-    #         x.append(item)
-    #         y.append(y_all[num])
-    # maxlen = max(len(i) for i in x)
-    # x_test = sequence.pad_sequences(x, maxlen=maxlen, padding='post')
-    # y_test = np.array(y)
-    # load testing data
+    
     print('Loading testing data')
     y_test = np.loadtxt('y_test_nft.txt')
     x_test = np.loadtxt('x_test_nft.txt')
-    # print('Pad sequences (samples x time)')
-    # X_train = sequence.pad_sequences(x_train, maxlen=400, padding='post')
-    # X_test = sequence.pad_sequences(x_test, maxlen=400, padding='post')
-    # print('X_train shape:', X_train.shape)
-    # print('X_test shape:', X_test.shape)
-    # print(type(X_test))
-
+   
     # load model structure
     print ('Loading model')
     json_file = open('ft_bigram.json')
