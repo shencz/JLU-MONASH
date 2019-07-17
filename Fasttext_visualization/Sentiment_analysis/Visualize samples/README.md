@@ -10,6 +10,6 @@ A sample predicted positive with sigmoid 0.99 but labeled negative
 
 sample one includes a sample that fasttext_bigram gives right predict but others gives wrong predict.
 
-sample two includes a sample that all models gives right predict. rnn visualization not work.
+sample two shows rnn visualization not work.
 
-sample three includes a sample that all models gives right predict. cnn visualization not work.
+sample three shows cnn visualization not work.
