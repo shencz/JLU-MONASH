@@ -17,8 +17,8 @@ from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 from keras.preprocessing import sequence
 
-from rnn_attention import attention
-from rnn_utils import get_vocabulary_size, fit_in_vocabulary, zero_pad, batch_generator
+from han_attention import attention
+from han_utils import get_vocabulary_size, fit_in_vocabulary, zero_pad, batch_generator
 
 NUM_WORDS = 10000
 INDEX_FROM = 3
