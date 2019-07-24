@@ -24,9 +24,9 @@ sigmoid_predict_p.jpg includes the sigmoid distributions of simples predicted po
 
 - model acc
 
-| model   |fasttext |fasttext_bigram|fasttext_trgram|   CNN   |   HAN   |
-|:-----   | :-----: | :-----------: | :-----------: | :-----: | :-----: |
-| val_acc |  90.28  |     91.83     |     91.60     |  89.32  |   89.7  |
+| model   |fasttext |fasttext_bigram|fasttext_trgram|   CNN   |   attbilstm    |   HAN   |  fransformer   |
+|:-----   | :-----: | :-----------: | :-----------: | :-----: | :------------: | :-----: |:--------------:|
+| val_acc |  90.28  |     91.83     |     91.60     |  89.32  |      90.40     |   89.7  |     89.57      |
 
 - error statistics
 
